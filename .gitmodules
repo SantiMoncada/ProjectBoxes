@@ -1,0 +1,3 @@
+[submodule "dependencies/LICK"]
+	path = dependencies/LICK
+	url = https://github.com/usysrc/LICK
